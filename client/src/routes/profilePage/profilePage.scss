@@ -52,6 +52,15 @@
           align-items: center;
           gap: 20px;
         }
+        button{
+          width: 100px;
+          padding: 10px;
+          background-color: teal;
+          border: none;
+          border-radius: 5px;
+          color: #fcf5f3;
+          cursor: pointer;
+        }
 
         img{
           width: 40px;
